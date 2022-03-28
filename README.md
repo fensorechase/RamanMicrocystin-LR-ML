@@ -10,3 +10,4 @@ git clone ________
 Run: pip install -r requirements.txt
 
 ** TODO: pip install pydot (for DNN model architecture png printing)
+- Install graphviz on your system (https://www.graphviz.org/download/)
