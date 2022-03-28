@@ -8,3 +8,5 @@ git clone ________
 
 2.) Install dependences with requirements.txt:
 Run: pip install -r requirements.txt
+
+** TODO: pip install pydot (for DNN model architecture png printing)
